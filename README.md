@@ -1,11 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Learning Rails
 
-Things you may want to cover:
+Learning Rails with a tutorial from [learn-rails.com](http://learn-rails.com/).
 
-* Ruby version
+The application according to Daniel Kehoe
+
+
+* Ruby version 2.3.1
+* Rails version 5.0.0.1
 
 * System dependencies
 
